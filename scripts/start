@@ -1,2 +1,0 @@
-mkdir -p /tmp/tryhaskell
-TMPDIR=/tmp/tryhaskell dist/build/tryhaskell/tryhaskell
